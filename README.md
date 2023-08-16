@@ -1,8 +1,8 @@
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>]
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
 
 <h1 align="center">Hi 👋, I'm Asik Zaman</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asikzaman11&label=Profile%20views&color=0e75b6&style=flat" alt="asikzaman11" /> </p>
 
